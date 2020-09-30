@@ -25,3 +25,5 @@ elif c == "d":
     print(f"The division of the given number is {a/b}")
 else:
     print(f"Please enter a valid input!!")
+
+print("This is a something trial!!!")
